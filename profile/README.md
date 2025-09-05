@@ -1,5 +1,3 @@
-# CogStack
-
 <p align="center">
   <img src="https://cogstack.org/wp-content/uploads/2023/10/Cogstack-Logo-Landcape-Dark.svg" alt="CogStack AI Logo" width="400"/>
 
@@ -8,11 +6,25 @@
   Unlock the power of healthcare data with CogStack AI.
 </p>
 
+---
 
-## About CogStack AI
-CogStack AI provides a suite of open-source tools for extracting, transforming, and understanding healthcare data at scale.  
-Our goal is to make healthcare data **actionable**, **interoperable**, and **secure**, empowering clinicians and researchers to deliver better patient outcomes.
+<p align="center">
+  <a href="https://cogstack.org">
+    <img src="https://img.shields.io/badge/Website-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://docs.cogstack.org/">
+    <img src="https://img.shields.io/badge/Documentation-1E90FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation"/>
+  </a>
+  <a href="https://discourse.cogstack.org/">
+    <img src="https://img.shields.io/badge/Community-8A2BE2?style=for-the-badge&logo=discourse&logoColor=white" alt="Community Forum"/>
+  </a>
+</p>
 
+This GitHub organization hosts the open-source code for CogStack AI, including our core NLP pipelines, data workflows, and research tools.
+
+- Improve productivity and reduce clinical risk through better data with Deep Phenotypes and Search
+- Free-up staff time through health data insights from CogStack Language Models and Generative AI
+- Works with any digital health record system and interoperable to international data standards
 
 ## Key Projects
 
